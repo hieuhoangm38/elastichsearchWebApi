@@ -1,0 +1,13 @@
+/.sonarqube
+/obj
+/bin
+/.vs
+/.vscode
+/.config
+/appsettings.json
+/Properties/*
+!/Properties/launchSettings.json
+/wwwroot/*
+/runtimes
+/LicenseGeneration/bin
+/LicenseGeneration/obj
